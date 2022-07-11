@@ -10,5 +10,3 @@
 4 ^ 2   # Exponencial
 4 ** 2  # Exponencial
 5 %/% 2 # Divisão inteira
-
-
